@@ -1,7 +1,6 @@
 /*
 File Name : debug_screen.h
 Description : The header file of debug_screen.cpp
-Author : S3E-FIA-FAI
 */
 
 #pragma once

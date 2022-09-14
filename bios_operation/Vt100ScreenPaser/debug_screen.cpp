@@ -1,7 +1,6 @@
 ﻿/*
 File Name : debug_screen.cpp
 Description : This file is designed to analyze serial port data.
-Author : S3E-FIA-FAI
 */
 
 #ifdef __linux__

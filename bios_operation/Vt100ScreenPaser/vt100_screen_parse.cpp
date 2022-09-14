@@ -1,7 +1,6 @@
 /*
 File Name : vt100_screen_parse.cpp
 Description : This file is designed to analyze and draw the bios screen.
-Author : S3E-FIA-FAI
 */
 
 #ifdef __linux__

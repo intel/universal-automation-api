@@ -1,7 +1,6 @@
 /*
 File Name : vt100_screen_parse.h
 Description : The header file of vt100_screen_parse.cpp
-Author : S3E-FIA-FAI
 */
 
 #pragma once
